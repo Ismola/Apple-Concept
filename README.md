@@ -2,6 +2,9 @@
 
 ## Link:https://ismola-restaurant.netlify.app/
 
+
+![Screenshot 2022-02-24 at 19-47-14 https ismola-restaurant netlify app](https://user-images.githubusercontent.com/60386407/155587867-067a01ca-b171-4ad4-bfce-75c58e887276.png)
+
 ## Definicioón del proyecto:
 
 La idea del producto gira entorno al concepto del reloj, cumpliendo todas las necesidades de los consumidores, desde la más básica siendo un simple lejos, hasta las necesidades más modernas.
