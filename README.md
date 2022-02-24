@@ -1,9 +1,9 @@
 # Apple-inspiration
 
-## Link:https://ismola-restaurant.netlify.app/
+## Link: https://ismola-apple.netlify.app/
 
+![Screenshot 2022-02-24 at 19-48-18 https ismola-apple netlify app](https://user-images.githubusercontent.com/60386407/155588027-90603a47-57fe-4af0-a89a-02d5132cf5ce.png)
 
-![Screenshot 2022-02-24 at 19-47-14 https ismola-restaurant netlify app](https://user-images.githubusercontent.com/60386407/155587867-067a01ca-b171-4ad4-bfce-75c58e887276.png)
 
 ## Definicioón del proyecto:
 
