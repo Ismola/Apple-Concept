@@ -2,7 +2,9 @@
 
 ## Link: https://ismola-apple.netlify.app/
 
-![Screenshot 2022-02-24 at 19-48-18 https ismola-apple netlify app](https://user-images.githubusercontent.com/60386407/155588027-90603a47-57fe-4af0-a89a-02d5132cf5ce.png)
+![imagen](https://user-images.githubusercontent.com/60386407/156918884-9f1d94d0-88bd-4580-bfb6-ad15deea2940.png)
+
+![imagen](https://user-images.githubusercontent.com/60386407/156918894-673bd8ad-e219-4807-ab0d-ec2e71717942.png)
 
 
 ## Definicioón del proyecto:
