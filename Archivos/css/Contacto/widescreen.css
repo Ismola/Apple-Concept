@@ -106,6 +106,21 @@ nav>div:hover {
     cursor: pointer;
 }
 
+.github-button>a {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 7px 13px;
+    color: #fff;
+    background-color: #001219;
+    border-radius: 18px;
+    text-decoration: none;
+}
+
+.github-button>a:hover {
+    background-color: #CA6702;
+}
+
 section {
     width: 100%;
     display: flex;
